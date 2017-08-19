@@ -1,2 +1,2 @@
 # findpart-backend
-NotNullLabs Making iOS Project
+NotNullLabs Making Backend Project
