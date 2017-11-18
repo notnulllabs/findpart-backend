@@ -8,7 +8,7 @@ import javax.persistence.TemporalType;
 @Entity
 public class Board {
 	
-	@Id 
+	@Id  
 	private String boardId;
 	
 	private String title;
